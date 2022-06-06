@@ -7,7 +7,7 @@ Sou estudante independente de programação e possuo foco em desenvolvimento em 
 <h2>🖥️ - Estudando:</h2>
    <ul>
    <li>Python</li>
-   <li>FLutter</li>
+   <li>Flutter</li>
 </ul>
 <hr>
 <div align="center">
