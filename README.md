@@ -6,9 +6,8 @@ Sou estudante independente de programação e possuo foco em desenvolvimento em 
 <hr>
 <h2>🖥️ - Estudando:</h2>
    <ul>
-   <li>HTML</li>
-   <li>CSS</li>
-   <li>Javascript</li>
+   <li>Python</li>
+   <li>FLutter</li>
 </ul>
 <hr>
 <div align="center">
