@@ -4,7 +4,7 @@
 
 I'm from Brazil, an independent coding student and future Software Engineer :computer: 
 
-[<img src="./assets/catcoder.gif" />]()
+[<img src="./assets/catcoder.gif" width = 50% />]()
 
 Javascript (Node) | HTML5 | CSS | MYSQL
 
