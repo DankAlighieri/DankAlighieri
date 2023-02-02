@@ -8,7 +8,7 @@ I'm from Brazil, an independent coding student and future Software Engineer :com
 
 Javascript (Node) | HTML5 | CSS | MYSQL
 
-🔭  I’m currently learning Jascript, MYSQL and C++😄
+🔭  I’m currently learning Javascript, MYSQL and C++😄
 
 📫 How to reach me: 
 
