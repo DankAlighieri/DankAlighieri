@@ -1,9 +1,9 @@
  ## Trust the process 🖖
  #### Hey there! I'm Guilherme Santos 👋
- #### My pronouns are He/Him
 
 
-I'm from Brazil, an independent coding student and future Computer Engineer :computer: 
+
+I'm from Brazil, my pronouns are He/Him, and am an independent coding student, mostly focusing in developing backend structures and APIs and future Computer Engineer :computer: 
 
 [<img src="./assets/catcoder.gif" width = 50% />]()
 
