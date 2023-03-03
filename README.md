@@ -1,5 +1,6 @@
  ## Trust the process 🖖
  #### Hey there! I'm Guilherme Santos 👋
+ #### My pronouns are He/Him
 
 
 I'm from Brazil, an independent coding student and future Computer Engineer :computer: 
@@ -8,7 +9,7 @@ I'm from Brazil, an independent coding student and future Computer Engineer :com
 
 Javascript (Node) | HTML5 | CSS | MYSQL
 
-🔭  I’m currently learning Javascript, MYSQL and C++😄
+🔭  I’m currently learning Javascript and MYSQL😄
 
 📫 How to reach me: 
 
@@ -32,6 +33,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
