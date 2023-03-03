@@ -3,7 +3,7 @@
 
 
 
-I'm from Brazil, my pronouns are He/Him, and am an independent coding student, mostly focusing in developing backend structures and APIs and future Computer Engineer :computer: 
+I'm from Brazil, a fresh independent coding student, mostly focusing on learning backend web development and future Computer Engineer :computer: 
 
 [<img src="./assets/catcoder.gif" width = 50% />]()
 
