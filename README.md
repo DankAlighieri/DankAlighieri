@@ -2,7 +2,7 @@
  #### Hey there! I'm Guilherme Santos 👋
 
 
-I'm from Brazil, an independent coding student and future Software Engineer :computer: 
+I'm from Brazil, an independent coding student and future Computer Engineer :computer: 
 
 [<img src="./assets/catcoder.gif" width = 50% />]()
 
