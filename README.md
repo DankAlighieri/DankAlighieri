@@ -5,7 +5,7 @@
 
 I'm from Brazil, a fresh independent coding student, mostly focusing on learning backend web development and future Computer Engineer :computer: 
 
-[<img src="./assets/catcoder.gif" width = 50% />]()
+[<img src="./assets/coding.gif" width = 50% />]()
 
 Javascript (Node) | HTML5 | CSS | MYSQL
 
