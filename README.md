@@ -5,7 +5,11 @@
 
 I'm from Brazil, a fresh independent coding student, mostly focusing on learning backend web development and future Computer Engineer :computer: 
 
-[<img src="./assets/coding.gif" width = 50% />]()
+<p align="center">
+ <img src="./assets/coding.gif" width = 50% />
+</p>
+
+
 
 Javascript (Node) | HTML5 | CSS | MYSQL
 
