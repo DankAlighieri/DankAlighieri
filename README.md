@@ -11,7 +11,7 @@ I'm from Brazil, a fresh independent coding student, mostly focusing on learning
 
 Javascript (Node) | Java | MYSQL
 
-🔭  I’m currently learning Java and MYSQL😄
+🔭  I’m currently learning Java and Typescript😄
 
 📫 How to reach me: 
 
