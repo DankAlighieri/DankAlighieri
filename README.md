@@ -1,7 +1,12 @@
  ## Trust the process 🖖
  #### Hey there! I'm Guilherme Santos 👋
 
-I'm from Brazil, a fresh independent coding student, mostly focusing on learning backend web development and future Computer Engineer :computer: 
+I'm a brazilian independent coding student and future Computer Engineer. 
+Mostly focusing on learning backend web development with Java and doing some Front end with Angular from time to time. 
+
+My hobby is messing around with arduinos and playing games.
+
+:computer: 
 
 <p align="center">
  <img src="./assets/coding.gif" width = 50% />
