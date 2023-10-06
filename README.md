@@ -8,7 +8,7 @@ My hobby is messing around with arduinos and playing games.
 <p align="center">
  :computer: 
 </p>
-
+<hr>
 <p align="center">
  <img src="./assets/coding.gif" width = 50% />
 </p>
