@@ -5,8 +5,9 @@ I'm a brazilian independent coding student and future Computer Engineer.
 Mostly focusing on learning backend web development with Java and doing some Front end with Angular from time to time. 
 
 My hobby is messing around with arduinos and playing games.
-
-:computer: 
+<p align="center">
+ :computer: 
+</p>
 
 <p align="center">
  <img src="./assets/coding.gif" width = 50% />
