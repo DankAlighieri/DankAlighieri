@@ -13,7 +13,7 @@ My hobby is messing around with arduinos and playing games.
  <img src="./assets/coding.gif" width = 50% />
 </p>
 
-
+<hr>
 
 Javascript (Node) | Java | MYSQL
 
