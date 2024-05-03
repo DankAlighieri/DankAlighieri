@@ -1,7 +1,7 @@
  ## Trust the process 🖖
  #### Hey there! I'm Guilherme Santos 👋
 
-I'm a Brazilian coding student and future Computer Engineer. 
+I'm a Brazilian student and future Computer Engineer. 
 Mostly focusing on learning backend web development with Java and doing some Front end with Angular from time to time. 
 
 My hobbies are messing around with Arduinos, linux distros and playing games.
