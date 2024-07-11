@@ -2,7 +2,8 @@
  #### Hey there! I'm Guilherme Santos 👋
 
 I'm a Brazilian student and future Computer Engineer. 
-Mostly focusing on learning backend web development with Java and doing some Front end with Angular from time to time. 
+Mainly focusing on learning backend web development with Java and Typescript.
+I am currently learning the NextJS framework and backend fundamentals
 
 My hobbies are messing around with Arduinos, linux distros and playing games.
 <p align="center">
