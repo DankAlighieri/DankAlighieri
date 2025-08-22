@@ -3,7 +3,6 @@
 
 I'm a Brazilian student and future Computer Engineer. 
 Mainly focusing on learning backend web development with Java and Typescript.
-I am currently learning the NextJS framework and backend fundamentals
 
 My hobbies are messing around with Arduinos, linux distros and playing games.
 <p align="center">
@@ -16,9 +15,12 @@ My hobbies are messing around with Arduinos, linux distros and playing games.
 
 <hr>
 
-Javascript (Node) | Java | MYSQL
+Javascript (Node) | Java | MYSQL | Go
 
-🔭  I’m currently learning Java and Typescript😄
+🔭  I’m currently learning:
+ - Go
+ - Typescript
+ - Wails
 
 📫 How to reach me: 
 
